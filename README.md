@@ -7,7 +7,7 @@ This repository contains the scripts and results of running HER+DDPG experiments
 ### OpenAI Gym
 Please follow the [instructions](http://gym.openai.com/docs/#installation) to install the OpenAI gym in your system. As part of the OpenAI gym installation, make sure to install the `mujoco_py` wrapper as well with the provided [instructions](https://github.com/openai/mujoco-py#obtaining-the-binaries-and-license-key).
 
-## OpenAI Baselines
+### OpenAI Baselines
 The OpenAI Baselines can be installed by following the instructions [here](https://github.com/openai/baselines). Make sure you are able to run the example 1 given in the instructions that runs PPO with mujoco humanoid.
 
 ## Reproducing Results
