@@ -2,8 +2,8 @@
 
 This repository contains the scripts and results of running HER+DDPG experiments on the shadow dexterous hand.
 
-## Report
-The Report is available in the reporsitory with the name `AER1517_Project.pdf`.
+## Report and Video
+The Report is available in the reporsitory with the name `AER1517_Project.pdf`, while the video is available [here](https://drive.google.com/file/d/1-ZQOO-ZD5sdUSY7FAwcoSZiz9yNeT-GS/view?usp=sharing).
 
 ## Pre-requisites
 
